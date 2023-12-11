@@ -7,8 +7,7 @@
 .home-div {
     margin-top: 2rem;
     align-items: center;
-    /* border: 1px solid black;
-    width: 80%; */
+    
 }
 .items1 {
     border: 1px solid red;
@@ -43,7 +42,14 @@ h5 {
 
 }
 .dispaly input {
-    width: 40%;
+    width: 33%;
     padding: 10px;
     font-size: 15px;
+}
+.flex-flex {
+    display: flex;
+    padding: 23px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
 }
